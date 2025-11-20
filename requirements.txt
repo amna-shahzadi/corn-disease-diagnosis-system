@@ -1,0 +1,6 @@
+torch
+opencv-python
+yolov10
+numpy
+pandas
+matplotlib
